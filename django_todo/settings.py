@@ -30,7 +30,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['HEROKU_HOSTNAME']
 
 
-
 # Application definition
 
 INSTALLED_APPS = [
